@@ -4,13 +4,13 @@
 
 -  A fan of John Carmack and his passion as a programmer
   
-<img src="https://github.com/muiz-eddy/muiz-eddy/assets/109058675/89f0b67d-b398-4bfd-aaf6-2c2f56433b50"  width="60%" height="30%"> <br />
+<p align = "center"><img src="https://github.com/muiz-eddy/muiz-eddy/assets/109058675/89f0b67d-b398-4bfd-aaf6-2c2f56433b50"  width="60%" height="30%"></p> <br />
 
 
 
 - I use Neovim with a Lazyvim setup since VScode is becoming monotonous to me. Checkout my neovim [config](https://github.com/muiz-eddy/neovim-config) (Will be updating the repo from time to time).
 
-<img src="https://github.com/muiz-eddy/muiz-eddy/assets/109058675/5ed23342-ebea-444e-b86f-ef2819135088"  width="60%" height="30%"> 
+<p align = "center"><img src="https://github.com/muiz-eddy/muiz-eddy/assets/109058675/5ed23342-ebea-444e-b86f-ef2819135088"  width="60%" height="30%"> </p>
 
 
 <!--
