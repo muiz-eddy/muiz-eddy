@@ -4,14 +4,18 @@
 
 -  A fan of John Carmack and his passion as a programmer
   
-<p align = "center"><img src="https://github.com/muiz-eddy/muiz-eddy/assets/109058675/89f0b67d-b398-4bfd-aaf6-2c2f56433b50"  width="60%" height="30%"></p> <br />
+<img src="https://github.com/muiz-eddy/muiz-eddy/assets/109058675/89f0b67d-b398-4bfd-aaf6-2c2f56433b50"  width="60%" height="30%"><br />
 
 
 
-- I use Neovim with a Lazyvim setup since VScode is becoming monotonous to me. Checkout my neovim [config](https://github.com/muiz-eddy/neovim-config) (Will be updating the repo from time to time).
+- I use Neovim with a Lazyvim setup since VScode is becoming monotonous to me. Checkout my neovim [config](https://github.com/muiz-eddy/neovim-config) (Will be updating the repo from time to time). <br/>
 
-<p align = "center"><img src="https://github.com/muiz-eddy/muiz-eddy/assets/109058675/5ed23342-ebea-444e-b86f-ef2819135088"  width="60%" height="30%"> </p>
+<img src="https://github.com/muiz-eddy/muiz-eddy/assets/109058675/5ed23342-ebea-444e-b86f-ef2819135088"  width="60%" height="30%">
 
+
+# Connect with me
+
+<a href="https://www.linkedin.com/in/mu-iz-eddy-b64593259/?originalSubdomain=bn"><img src="https://github.com/muiz-eddy/muiz-eddy/assets/109058675/ce8d2d09-e666-4b9f-8ed1-8cdfea365488"  width="5%" height="5%"></a>
 
 <!--
 **muiz-eddy/muiz-eddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
