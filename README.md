@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello my name is Muiz
+
+Im a Front-end developer that aspires to be a Full-Stack developer
+
+- A fan of John Carmack and his passion as a programmer
+  
+![john carmack](https://github.com/muiz-eddy/muiz-eddy/assets/109058675/89f0b67d-b398-4bfd-aaf6-2c2f56433b50)
+
+- I use Neovim with a Lazyvim setup since VScode is becoming monotonous to me. Checkout my neovim [config](https://github.com/muiz-eddy/neovim-config) (Will be updating the repo from time to time).
+![1_QMxXfk6wJD_cw6fXWRu_fQ](https://github.com/muiz-eddy/muiz-eddy/assets/109058675/680a4a90-5674-4655-b7b3-88374438a5f8) 
 
 <!--
 **muiz-eddy/muiz-eddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
