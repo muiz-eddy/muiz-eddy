@@ -15,7 +15,8 @@
 
 # Connect with me
 
-<a href="https://www.linkedin.com/in/mu-iz-eddy-b64593259/?originalSubdomain=bn"><img src="https://github.com/muiz-eddy/muiz-eddy/assets/109058675/ce8d2d09-e666-4b9f-8ed1-8cdfea365488"  width="5%" height="5%"></a>
+[<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkedin" width="5%" height="5%">](https://www.linkedin.com/in/mu-iz-eddy-b64593259/?originalSubdomain=bn)
+
 
 <!--
 **muiz-eddy/muiz-eddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
