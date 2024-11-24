@@ -1,7 +1,5 @@
 # Hello my name is Muiz
 
-### Im a Front-end developer that aspires to be a Full-Stack developer
-
 -  A fan of John Carmack and his passion as a programmer.
   
 <img src="https://github.com/muiz-eddy/muiz-eddy/assets/109058675/89f0b67d-b398-4bfd-aaf6-2c2f56433b50"  width="60%" height="30%"><br />
